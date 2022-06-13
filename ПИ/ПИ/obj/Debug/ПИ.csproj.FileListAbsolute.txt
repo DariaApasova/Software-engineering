@@ -1,0 +1,25 @@
+\\itcorp.tech\Homes\Student\01675\80\Documents\Visual Studio 2015\Projects\ПИ\ПИ\bin\Debug\ПИ.exe.config
+G:\ПИ\ПИ\bin\Debug\ПИ.exe.config
+D:\ПИ\ПИ\bin\Debug\ПИ.exe.config
+G:\ПИ\ПИ\bin\Debug\ПИ.exe
+G:\ПИ\ПИ\bin\Debug\ПИ.pdb
+G:\ПИ\ПИ\obj\Debug\ПИ.csprojResolveAssemblyReference.cache
+G:\ПИ\ПИ\obj\Debug\ПИ.AddOrChangeProduct.resources
+G:\ПИ\ПИ\obj\Debug\ПИ.MainForm.resources
+G:\ПИ\ПИ\obj\Debug\ПИ.Report.resources
+G:\ПИ\ПИ\obj\Debug\ПИ.Properties.Resources.resources
+G:\ПИ\ПИ\obj\Debug\ПИ.Sales.resources
+G:\ПИ\ПИ\obj\Debug\ПИ.csproj.GenerateResource.Cache
+G:\ПИ\ПИ\obj\Debug\ПИ.exe
+G:\ПИ\ПИ\obj\Debug\ПИ.pdb
+D:\ПИ\ПИ\obj\Debug\ПИ.exe
+D:\ПИ\ПИ\obj\Debug\ПИ.pdb
+D:\ПИ\ПИ\bin\Debug\ПИ.exe
+D:\ПИ\ПИ\bin\Debug\ПИ.pdb
+D:\ПИ\ПИ\obj\Debug\ПИ.csprojResolveAssemblyReference.cache
+D:\ПИ\ПИ\obj\Debug\ПИ.AddOrChangeProduct.resources
+D:\ПИ\ПИ\obj\Debug\ПИ.MainForm.resources
+D:\ПИ\ПИ\obj\Debug\ПИ.Report.resources
+D:\ПИ\ПИ\obj\Debug\ПИ.Properties.Resources.resources
+D:\ПИ\ПИ\obj\Debug\ПИ.Sales.resources
+D:\ПИ\ПИ\obj\Debug\ПИ.csproj.GenerateResource.Cache

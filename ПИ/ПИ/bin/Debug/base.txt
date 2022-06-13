@@ -1,0 +1,21 @@
+﻿1;Jean Paul Gaultier la belle;Парфюмерная вода;JPG;01.01.2022;7570;10;шт.;6;2
+2;Jean Paul Gaultier la belle;Парфюмерная вода;JPG;01.01.2022;5330;5;шт.;6;4
+3;Yves Saint Laurent black opium;Туалетная вода;YSL;01.01.2022;9090;10;шт.;6;3
+4;Lancome idole;Парфюмерная вода;Lancome;02.01.2022;10790;7;шт.;6;3
+5;Lancome id;Парфюмерная вода;Lancome;02.01.2022;6190;10;шт.;10;1
+6;Lacoste l.12.12 rose;Парфюмерная вода;Lacoste;02.01.2022;6360;5;шт.;12;0
+7;Giorgio Armani si;Парфюмерная вода;Giorgio Armani;03.01.2022;6490;15;шт.;12;4
+8;Jean Paul Gaultier scandal;Туалетная вода;JPG;03.01.2022;5200;5;шт.;6;1
+9;Tom Ford fleur de portofino;Парфюмерная вода;TF;04.01.2022;20400;5;шт.;12;1
+10;Tom Ford champaca absolute;Парфюмерная вода;TF;04.01.2022;20400;5;шт.;12;1
+11;Tom Ford tabacco vanille;Парфюмерная вода;TF;05.01.2022;20400;5;шт.;12;1
+12;Kenzo kenzo jungle;Туалетная вода;Kenzo;05.01.2022;5650;10;шт.;8;2
+13;Kenzo kenzo ca sent beau;Парфюмерная вода;Kenzo;05.01.2022;5670;10;шт.;8;2
+14;Kenzo kenzo le monde est beau;Парфюмерная вода;Kenzo;05.01.2022;5670;10;шт.;8;2
+15;Lancome magie noire;Парфюмерная вода;Lancome;06.01.2022;8890;7;шт.;6;1
+16;Lancome maison lature oud;Парфюмерная вода;Lancome;06.01.2022;20190;5;шт.;12;1
+17;Lacoste l.12.12 pour elle magnetic;Туалетная вода;Lacoste;07.01.2022;6320;5;шт.;6;2
+18;Lacoste l.12.12 pour elle sparkling;Парфюмерная вода;Lacoste;07.01.2022;4390;5;шт.;6;1
+19;Giorgio Armani sky di gioda;Парфюмерная вода;Giorgio Armani;07.01.2022;5880;10;шт.;12;0
+20;Giorgio Armani emporio armani in love with you;Парфюмерная вода;Giorgio Armani;07.01.2022;7390;10;шт.;10;2
+21;Lancome home;Парфюмерная вода;Lancome;03.04.2022;6600;10;шт.;2;0
